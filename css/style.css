@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.navbar-nav{
+    margin-right: 100px;
+}
+#navbarNav .nav-link{
+    color: #000;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.button{
+    background-color: #e5194a;
+}
+
+.service{
+    background-color: #ecf0f1;
+}
+
+.container-footer{
+    background: url('../images/AdobeStock_202169920-scaled\ 1.jpg');
+    /* height: 450px;
+    width: 100%; */
+}
